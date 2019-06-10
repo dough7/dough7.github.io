@@ -1,15 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A running list of jobs, projects, awards, interests, etc.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+EDUCATION
+
+Ph.D. Candidate Materials Science and Engineering (MSE)							 Current
+VIRGINIA TECH								
+
+B.S. Engineering Science and Mechanics (ESM)
+VIRGINIA TECH				                	 				            May 2018
+		Minor: Mathematics (MATH)
+
+
 
 - I rock a great mustache
 - I'm extremely loyal to my family
-
-What else do you need?
 
 ### my history
 
