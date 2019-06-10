@@ -3,10 +3,6 @@ layout: page
 title: About me
 subtitle: A running list of jobs, projects, awards, interests, etc.
 ---
-# Most Prestigious Accomplishment of All Time
-
--Former Chairman of International Union of Gubs (IUG)
-
 
 ### EDUCATION
 
