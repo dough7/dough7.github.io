@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A running list of jobs, projects, awards, interests, etc.
+subtitle: A running list of professional projects, educational experiences, R&D, awards, interests, etc.
 ---
 
 ### EDUCATION
@@ -34,8 +34,5 @@ VIRGINIA TECH
 **Independent Consult and Material Testing – [Lord Corp, Structural Adhesives Division](https://www.lord.com/products-and-solutions/brands/lord-structural-adhesives)**
 
 - Fracture energy characterization for novel epoxy adhesive system
-
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
 
