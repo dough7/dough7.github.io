@@ -6,7 +6,7 @@ subtitle: A running list of jobs, projects, awards, interests, etc.
 
 #### EDUCATION
 
-Ph.D. Candidate Materials Science and Engineering (MSE)				
+Ph.D. Candidate Materials Science and Engineering (MSE)
 VIRGINIA TECH		
 
 B.S. Engineering Science and Mechanics (ESM)
