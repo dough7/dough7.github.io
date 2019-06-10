@@ -8,7 +8,7 @@ subtitle: A running list of jobs, projects, awards, interests, etc.
 -Former Chairman of International Union of Gubs (IUG)
 
 
-#### EDUCATION
+### EDUCATION
 
 Ph.D. Candidate Materials Science and Engineering ||
 VIRGINIA TECH		
@@ -16,11 +16,15 @@ VIRGINIA TECH
 B.S. Engineering Science and Mechanics ||
 VIRGINIA TECH	
 
-#### Research Portfolio
+### Research Portfolio
+.
+.
+.
+.
+.
 
 
-
-#### Employment and Experience
+### Employment and Experience
 
 **Post-Bachelors Position - Oak Ridge National Lab, [Manufacturing Demonstration Facility](https://www.ornl.gov/facility/mdf) (ORNL MDF), Energetic Systems**
 
