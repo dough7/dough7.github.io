@@ -9,7 +9,7 @@ subtitle: A running list of jobs, projects, awards, interests, etc.
 Ph.D. Candidate Materials Science and Engineering (MSE) 
 || VIRGINIA TECH		
 
-B.S. Engineering Science and Mechanics, Minor: Mathematics || VIRGINIA TECH	 		
+B.S. Engineering Science and Mechanics || VIRGINIA TECH	
 
 #### Employment
 
