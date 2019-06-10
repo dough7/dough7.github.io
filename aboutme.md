@@ -16,11 +16,21 @@ VIRGINIA TECH
 B.S. Engineering Science and Mechanics ||
 VIRGINIA TECH	
 
-#### Employment
+#### Experience
 
-**Oak Ridge National Lab',' Manufacturing Demonstration Facility (ORNL MDF)**
+**Post-Bachelors Position '-' Oak Ridge National Lab',' Manufacturing Demonstration Facility (MDF)',' Energetic Systems**
 
-Interfacial characterization of big area additive manufactured (BAAM) thermoplastic composites
+- Interfacial characterization of big area additive manufactured (BAAM) thermoplastic composites
+
+**Composites Engineering Intern '-' Luna Inc',' Advanced Materials Group	
+
+- Thermoset resin optimization for superior high temperature degradation on Orion class missiles in partnership with Missile Defense Agency (MDA) and Orbital ATK '-' SBIR Project
+
+- Out'-'of'-'autoclave repair of aircraft grade composites in partnership with U.S. Navy '-' SBIR Project
+
+**Independent Consult and Material Testing – Lord Corp**
+
+- Fracture energy characterization for novel epoxy adhesive system
 
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
