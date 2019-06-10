@@ -10,15 +10,15 @@ subtitle: A running list of jobs, projects, awards, interests, etc.
 
 #### EDUCATION
 
-##### Ph.D. Candidate Materials Science and Engineering
+Ph.D. Candidate Materials Science and Engineering ||
 VIRGINIA TECH		
 
-##### B.S. Engineering Science and Mechanics 
+B.S. Engineering Science and Mechanics ||
 VIRGINIA TECH	
 
 #### Employment
 
-Oak Ridge National Lab',' Manufacturing Demonstration Facility (ORNL MDF)
+**Oak Ridge National Lab',' Manufacturing Demonstration Facility (ORNL MDF)**
 
 Interfacial characterization of big area additive manufactured (BAAM) thermoplastic composites
 
