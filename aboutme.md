@@ -6,11 +6,11 @@ subtitle: A running list of jobs, projects, awards, interests, etc.
 
 #### EDUCATION
 
-Ph.D. Candidate Materials Science and Engineering (MSE)
-|VIRGINIA TECH		
+Ph.D. Candidate Materials Science and Engineering (MSE) 
+|| VIRGINIA TECH		
 
-B.S. Engineering Science and Mechanics (ESM)
-Minor: Mathematics (MATH)
+B.S. Engineering Science and Mechanics (ESM) ||
+Minor: Mathematics (MATH)||
 VIRGINIA TECH	 		
 
 #### my history
