@@ -18,7 +18,8 @@ VIRGINIA TECH
 
 #### Employment
 
-##### Oak Ridge National Lab',' Manufacturing Demonstration Facility (ORNL MDF)
+Oak Ridge National Lab',' Manufacturing Demonstration Facility (ORNL MDF)
+
 Interfacial characterization of big area additive manufactured (BAAM) thermoplastic composites
 
 
