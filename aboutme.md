@@ -4,14 +4,13 @@ title: About me
 subtitle: A running list of jobs, projects, awards, interests, etc.
 ---
 
-### EDUCATION
+#### EDUCATION
 
-## Ph.D. Candidate Materials Science and Engineering (MSE)				
-# VIRGINIA TECH								
-
-# B.S. Engineering Science and Mechanics (ESM)
+Ph.D. Candidate Materials Science and Engineering (MSE)				
+VIRGINIA TECH								
+B.S. Engineering Science and Mechanics (ESM)
 Minor: Mathematics (MATH)
-# VIRGINIA TECH				                	 		
+IRGINIA TECH				                	 		
 
 #### my history
 
