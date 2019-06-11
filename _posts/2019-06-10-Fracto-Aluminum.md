@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SEM Fractograph of Solid State 3D Printed Aluminum
-image: /img/SEM.tif
-bigimg: /img/SEM.tif
+image: /img/SEMpng.png
+bigimg: /img/SEMpng.png
 tags: [Fractography, SEM, Scanning Electron Microscopy, Additive Manufacturing, Metal Additive Manufacturing,3D Printing,  Metal 3D Printing]
 ---
 
