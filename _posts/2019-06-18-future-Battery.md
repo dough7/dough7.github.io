@@ -2,7 +2,6 @@
 layout: post
 title: The Future of Energy Storage?
 image: /img/energy-storage-2.jpg
-bigimg: /img/SEMpng.png
 tags: [Futurism, Battery Technology, Electrochemistry, Grid Storage, Renewable Energy]
 ---
 
